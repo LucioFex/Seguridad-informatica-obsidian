@@ -132,7 +132,3 @@ Se pide un mínimo de 16 caracteres en una contraseña hoy en día.
 
 ![[Actividad clase 2 - Seguridad informática]]
 
-
----
-
-![[Pasted image 20250807220641.png | 30]]
