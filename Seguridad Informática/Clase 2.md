@@ -135,4 +135,4 @@ Se pide un mínimo de 16 caracteres en una contraseña hoy en día.
 
 ---
 
-![[Pasted image 20250807220641.png]]
+![[Pasted image 20250807220641.png | 30]]
