@@ -35,3 +35,15 @@
 ![[Pasted image 20250828201851.png]]
 ![[Pasted image 20250828202008.png]]
 ![[Pasted image 20250828202150.png]]
+![[Pasted image 20250828210139.png]]
+![[Pasted image 20250828210207.png]]
+![[Pasted image 20250828210422.png]]
+![[Pasted image 20250828210738.png]]
+![[Pasted image 20250828210742.png]]
+![[Pasted image 20250828211536.png]]
+![[Pasted image 20250828211616.png]]
+- Pausó acá
+	- Esto queda para la próxima clase
+
+
+# [[Actividad clase 5 - Cont caso de estudio]]
