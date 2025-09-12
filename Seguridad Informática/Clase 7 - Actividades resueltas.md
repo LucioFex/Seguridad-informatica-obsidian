@@ -137,4 +137,33 @@ and in the face of ignorance and resistance i wrote financial systems into exist
 ---
 # Algoritmos simétricos de encriptado (DES) ATAQUE
 https://www.abcdatos.com/programa/ataque-fortaleza-estandar-des.html
+
+![[Pasted image 20250912001151.png]]
+![[Pasted image 20250912001201.png]]
+https://www.reddit.com/r/antivirus/comments/1fuwx2z/trojanmalware300983susgen_its_bad/?tl=es-419
 ## Ejercicio 1: Ataque Monousuario
+
+1. Ejecute la aplicación.
+2. A continuación, seleccione “DES > Ataque > Monousuario”
+![[Pasted image 20250912001927.png]]
+3. Crear el archivo “Prueba para DES.txt” y coloque en su interior un texto.
+4. Seleccione el archivo origen (Texto a cifrar “Prueba para DES.txt”) y el de salida (Coloque
+en el casillero Fichero de salida “Prueba Cifrado.cif”). 
+
+**Prueba para DES.txt**
+```md
+I picked up a pen, I wrote my own deliverance
+```
+
+5. Seleccione la solapa “Opciones > Búsqueda delimitada de claves”, seleccione
+“Hexadecimal”
+6. En “Clave inicial” ingrese el siguiente valor “B4E0167A2467FAB1”, en “Clave Final” ingrese el siguiente valor “C4E0167A2467FAB1” (Debe aparecer en el casillero “Número de claves Distintas ”18014398509481985”)
+7. En el casillero “Atacar” tilde la casilla “Archivos”
+![[Pasted image 20250912001744.png]]
+8. Inicie el proceso seleccionando “Operaciones” y luego “Comenzar”.
+
+<mark style="background: #FFF3A3A6;">TO-DO</mark>
+
+
+5. En la solapa “Resultado Ficheros” se podrá observar las claves válidas. (Copie y guarde el
+resultado”)
