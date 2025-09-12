@@ -11,16 +11,13 @@ Material de la clase
 ![[Pasted image 20250911224019.png]]
 ![[Pasted image 20250911224013.png]]
 
-https://www.abcdatos.com/programa/practicas-criptografia-clasica.html
-
 Mmm sospechoso el archivo descargado, pero parece que al final es un falso positivo.
 ![[Pasted image 20250911230604.png]]
 https://www.virustotal.com/gui/file/090378304d593c20191a1741b2365d1e31f69f28baacbfb43d8f9f9c2e9217d1/detection
 
 ---
-
 # Cifrado por desplazamiento
-
+https://www.abcdatos.com/programa/practicas-criptografia-clasica.html
 ## Ejercicio 1
 
 1. Seleccionar “Opciones > Español Z27
@@ -137,3 +134,7 @@ and in the face of ignorance and resistance i wrote financial systems into exist
 
 ![[Pasted image 20250912000053.png]]
 
+---
+# Algoritmos simétricos de encriptado (DES) ATAQUE
+https://www.abcdatos.com/programa/ataque-fortaleza-estandar-des.html
+## Ejercicio 1: Ataque Monousuario
