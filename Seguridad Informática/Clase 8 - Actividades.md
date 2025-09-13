@@ -178,3 +178,7 @@ Ejemplo
 ## 👤 Identificación del atacante
 - Sin datos personales aún; requiere correlación de logs, análisis de tráfico y colaboración con **CERT/autoridades**.
 # 🗺 Pendiente: Diagrama
+
+
+
+![[Pasted image 20250912213145.png]]
