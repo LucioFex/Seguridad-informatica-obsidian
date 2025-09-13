@@ -177,3 +177,4 @@ Ejemplo
 - Capacitación en **conciencia de seguridad** al personal.
 ## 👤 Identificación del atacante
 - Sin datos personales aún; requiere correlación de logs, análisis de tráfico y colaboración con **CERT/autoridades**.
+# 🗺 Pendiente: Diagrama
