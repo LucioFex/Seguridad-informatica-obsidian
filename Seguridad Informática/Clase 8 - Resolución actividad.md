@@ -10,7 +10,7 @@
 
 # Respuesta
 
-Boceto inical
+Boceto inicial
 ![[Pasted image 20250915000401.png]]
 
 
