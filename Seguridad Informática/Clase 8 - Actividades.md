@@ -181,4 +181,5 @@ Ejemplo
 
 
 
+Quienes quedamos a lo último con la consigna en manos:
 ![[Pasted image 20250912213145.png]]
