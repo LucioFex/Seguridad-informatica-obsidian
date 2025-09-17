@@ -5,10 +5,11 @@
   "obsidian-chartsview-plugin",
   "obsidian-git",
   "highlightr-plugin",
-  "obsidian-image-toolkit",
   "obsidian-latex-suite",
   "mermaid-tools",
   "obsidian-mind-map",
   "obsidian-functionplot",
-  "simple-canvasearch"
+  "simple-canvasearch",
+  "mousewheel-image-zoom",
+  "diagram-zoom-drag"
 ]

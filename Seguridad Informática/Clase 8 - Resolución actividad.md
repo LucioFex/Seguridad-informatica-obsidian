@@ -35,3 +35,9 @@ Boceto inicial
 > - Si ≥80% del tráfico ofensivo proviene de **rangos internos/VPN** → A o B.
 > - Si la mayoría es **IP pública diversa** y volumétrica → C.
 > - Si hay **jobs RMM/VPN** justo antes de 19:00 → B prima sobre A.
+
+# Diagrama
+
+![[Pasted image 20250916221450.png]]
+
+![[Caso de estudio 2 - Actividad resuelta (Clase 8) - LE.pdf]]

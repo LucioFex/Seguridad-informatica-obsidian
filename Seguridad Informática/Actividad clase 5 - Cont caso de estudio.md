@@ -2,13 +2,13 @@
 
 **Bomba lógica**
 - Así quiere que hagamos el diagrama de la próxima clase
-![[Pasted image 20250828212413.png]]
+![[Pasted image 20250828212413.png|900]]
 
 
 Nos pasó esto para revisar:
 https://www.abcdatos.com/programas/seguridad/criptografia/
 
-![[Pasted image 20250828213531.png]]
+![[Pasted image 20250828213531.png|625]]
 
 
 ---
