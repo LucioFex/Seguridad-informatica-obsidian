@@ -76,23 +76,9 @@
               "icon": "lucide-file",
               "title": "Clase 8 - Actividades"
             }
-          },
-          {
-            "id": "d9c26b94871ecc21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clase 8 - Resolución actividad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 8 - Resolución actividad"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,8 +239,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d9c26b94871ecc21",
+  "active": "f857279fe08e6d96",
   "lastOpenFiles": [
+    "Clase 8 - Resolución actividad.md",
     "Pasted image 20250915000401.png",
     "Pasted image 20250915000354.png",
     "Caso de estudio 2 1.pdf",
@@ -263,7 +250,6 @@
     "Pasted image 20250915000100.png",
     "Pasted image 20250915000057.png",
     "Clase 8 - Actividades.md",
-    "Clase 8 - Resolución actividad.md",
     "aaaa.md",
     "Pasted image 20250912213145.png",
     "Actividad clase 5 - Cont caso de estudio.md",
@@ -275,7 +261,6 @@
     "Pasted image 20250912205551.png",
     "Pasted image 20250912204455.png",
     "Pasted image 20250912204323.png",
-    "Pasted image 20250912204218.png",
     "Clase 7 - Actividades resueltas.md",
     "3_ CIF_SIM_DES_ATAQUE (2).pdf",
     "Clase 3.md",
