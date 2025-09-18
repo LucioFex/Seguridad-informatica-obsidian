@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39707c0cd81750f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Otro"
-            }
-          },
-          {
             "id": "3a6c32e8e0f39013",
             "type": "leaf",
             "state": {
@@ -34,9 +20,22 @@
               "icon": "lucide-file",
               "title": "Clase 9"
             }
+          },
+          {
+            "id": "404c65a012c6fb13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clase 9 - Actividad - Qué hiciste ese día.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 9 - Actividad - Qué hiciste ese día"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,27 +208,28 @@
   },
   "active": "3a6c32e8e0f39013",
   "lastOpenFiles": [
-    "Otro.md",
+    "Clase 9 - Actividad - Qué hiciste ese día.md",
     "Clase 9.md",
-    "Pasted image 20250917201434.png",
-    "Pasted image 20250917201430.png",
+    "Otro.md",
+    "Pasted image 20250918200641.png",
+    "Pasted image 20250918200629.png",
+    "Pasted image 20250918200540.png",
+    "Pasted image 20250918200512.png",
+    "Pasted image 20250918200417.png",
+    "Pasted image 20250918200229.png",
+    "Pasted image 20250918195252.png",
+    "Pasted image 20250918191707.png",
+    "Pasted image 20250918191253.png",
+    "Pasted image 20250918190533.png",
     "Clase 5.md",
     "Clase 8 - Resolución actividad.md",
     "Caso de estudio 2 - Actividad resuelta (Clase 8) - LE.pdf",
-    "Pasted image 20250915000057.png",
-    "Pasted image 20250915000401.png",
     "Caso de estudio 2 1.pdf",
     "Actividad clase 5 - Cont caso de estudio.md",
     "Untitled.base",
-    "Pasted image 20250916221450.png",
     "Clase 8 - Actividades.md",
     "Clase 7 - Actividades resueltas.md",
-    "Pasted image 20250828212413.png",
     "aaa.md",
-    "Pasted image 20250915000354.png",
-    "Pasted image 20250915000240.png",
-    "Pasted image 20250915000216.png",
-    "Pasted image 20250915000100.png",
     "aaaa.md",
     "Caso de estudio 2.pdf",
     "Clase 2.md",
