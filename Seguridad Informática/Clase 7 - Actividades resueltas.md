@@ -4,9 +4,6 @@
 ```table-of-contents
 ```
 
-Mmm sospechoso el archivo descargado, pero parece que al final es un falso positivo.
-
-
 ---
 # Cifrado por desplazamiento
 https://www.abcdatos.com/programa/practicas-criptografia-clasica.html
