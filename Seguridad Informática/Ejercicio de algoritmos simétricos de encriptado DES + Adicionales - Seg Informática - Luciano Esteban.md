@@ -1,4 +1,4 @@
-#clase_7
+#clase_7 **Alumno**: Luciano Esteban
 
 # Contenido
 ```table-of-contents
@@ -166,6 +166,10 @@ El programa prueba cada clave una por una hasta encontrar la correcta. Esto es c
 - Si la computadora prueba, por ejemplo, 1 millón de claves por segundo, el proceso podría tardar días o semanas en completarse.
 
 # Ejercicio 2: Ataque simultaneo
+
+Detalle de la CPU con la que realizaré el ejercicio:
+![[Pasted image 20250921204910.png | 300]]
+
 1. A continuación, seleccione “DES > Ataque > Red > Simulación” 
 ![[Pasted image 20250921201734.png]]
 2. Repita todos los pasos de la operación anterior hasta el punto 8.
