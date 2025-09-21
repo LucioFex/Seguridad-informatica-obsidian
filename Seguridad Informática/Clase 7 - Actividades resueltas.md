@@ -1,25 +1,20 @@
 #clase_7
 
-# Contenido inicial
-
-Falté, mis apuntes son con el material que adjuntó el profe.
-
-Msj inicial: 
-![[Pasted image 20250911224008.png]]
-
-Material de la clase 
-![[Pasted image 20250911224019.png]]
-![[Pasted image 20250911224013.png]]
+# Contenido
+```table-of-contents
+```
 
 Mmm sospechoso el archivo descargado, pero parece que al final es un falso positivo.
-![[Pasted image 20250911230604.png]]
-https://www.virustotal.com/gui/file/090378304d593c20191a1741b2365d1e31f69f28baacbfb43d8f9f9c2e9217d1/detection
+
 
 ---
 # Cifrado por desplazamiento
 https://www.abcdatos.com/programa/practicas-criptografia-clasica.html
-## Ejercicio 1
 
+**Revisión del archivo descargable** (parece que es un falso positivo)
+![[Pasted image 20250911230604.png]]
+https://www.virustotal.com/gui/file/090378304d593c20191a1741b2365d1e31f69f28baacbfb43d8f9f9c2e9217d1/detection
+## Ejercicio 1
 1. Seleccionar “Opciones > Español Z27
 2. Seleccionar “Criptosistemas > Desplazados Puros”.
 ![[Pasted image 20250911230732.png]]
@@ -52,8 +47,7 @@ original, ¿Cuáles son?
 **B:** CURSODESEGURIDAD
 
 El texto es igual, pero sin espacios.
-## Ejercicio 2:
-
+## Ejercicio 2
 1. Haga clic sobre el icono “Clave” y seleccione una Constante de desplazamiento igual a 3 (“Cifrado del César”).
 ![[Pasted image 20250911233424.png]]
 
@@ -102,29 +96,21 @@ and in the face of ignorance and resistance i wrote financial systems into exist
 ```
 
 ---
-
 ## Cifrado por Vigenere
 
 ## Ejercicio 1
-
 1. Seleccionar “Opciones > Español Z27
 2. Seleccionar “Criptosistemas > Vigenere”.
-
 ![[Pasted image 20250911235623.png]]
-
 3. Haga clic sobre el icono “Clave” y escriba una clave deseada
 ![[Pasted image 20250911235741.png]]
-
 4. En el cuadro “Entrada” escriba la siguiente frase: CURSO DE SEGURIDAD
 ![[Pasted image 20250911235802.png]]
-
 5. 5. Haga clic en “Cifrar”. Haga Click SI en “Quiere ver el informe”. Analice el informe.
 6. Haga click en “Criptoanalizar”. ¿Qué mensaje aparece?
-
 ![[Pasted image 20250911235846.png]]
 
 ![[Pasted image 20250911235903.png]]
-
 7. Copie la cadena de salida obtenida en el casillero correspondiente a “Entrada”.
 8. Haga clic en “Descifrar”.
 9. Haga Click Si en “Quiere ver el informe”.
@@ -136,34 +122,111 @@ and in the face of ignorance and resistance i wrote financial systems into exist
 
 ---
 # Algoritmos simétricos de encriptado (DES) ATAQUE
-https://www.abcdatos.com/programa/ataque-fortaleza-estandar-des.html
+## Revisión de archivos y programas
 
+https://www.abcdatos.com/programa/ataque-fortaleza-estandar-des.html
 ![[Pasted image 20250912001151.png]]
 ![[Pasted image 20250912001201.png]]
 https://www.reddit.com/r/antivirus/comments/1fuwx2z/trojanmalware300983susgen_its_bad/?tl=es-419
-## Ejercicio 1: Ataque Monousuario
-
-1. Ejecute la aplicación.
-2. A continuación, seleccione “DES > Ataque > Monousuario”
-![[Pasted image 20250912001927.png]]
-3. Crear el archivo “Prueba para DES.txt” y coloque en su interior un texto.
-4. Seleccione el archivo origen (Texto a cifrar “Prueba para DES.txt”) y el de salida (Coloque
-en el casillero Fichero de salida “Prueba Cifrado.cif”). 
 
 **Prueba para DES.txt**
-```md
-I picked up a pen, I wrote my own deliverance
+![[Pasted image 20250921194933.png]]
+**Prueba Cifrado.cif**
+![[Pasted image 20250921194947.png]]
+
+## Ejercicio 1: Ataque Monousuario
+1. Descargue del campus los siguientes archivos: “Prueba para DES.txt” y “Prueba Cifrado.cif”
+![[Pasted image 20250921195323.png]]
+2. Ejecute la aplicación.
+3. A continuación, seleccione “DES > Ataque > Monousuario” 
+![[Pasted image 20250921195355.png]]
+4. En la ventana “archivo” _ “Fichero Sin Cifrar” Ingrese el archivo “Prueba para DES.txt”
+![[Pasted image 20250921195505.png]]
+5. En la ventana “archivo” _ “Fichero Cifrado” Ingrese el archivo “Prueba Cifrado.cif”
+![[Pasted image 20250921195511.png]]
+6. Seleccione la solapa “Opciones > Búsqueda delimitada de claves”, seleccione “Hexadecimal”
+![[Pasted image 20250921195624.png]]
+7. En “Clave inicial” ingrese el siguiente valor “B4E0167A2467FAB1”, en “Clave Final” ingrese el
+siguiente valor “F4E0167A2467FAB1”. (Debe aparecer en el casillero “Número de claves Distintas ”18014398509481985”)
+![[Pasted image 20250921195702.png]]
+8. En el casillero “Atacar” tilde la casilla “Archivos”
+![[Pasted image 20250921195741.png]]
+9. Inicie el proceso seleccionando “Operaciones” y luego “Comenzar”.
+![[Pasted image 20250921195811.png]]
+10. En la solapa “Resultado Ficheros” se podrá observar las claves válidas. (Copie y guarde el
+resultado”)
+![[Pasted image 20250921200902.png]]
+![[Pasted image 20250921201553.png]]
+Como podemos comprobar en la captura adjunta más arriba, el proceso es claramente tardado (como dirían en Telecom: "Tarda más que socializar una herramienta nueva") y no cuento con la disponibilidad horaria para completarlo en su totalidad.
+
+En su lugar, adjuntaré el detalle teórico detrás de este ejercicio.
+### Explicación teórica
+El ataque monousuario en DES consiste en una búsqueda exhaustiva de claves (fuerza bruta) dentro de un rango específico. En el ejercicio se configuran la clave inicial y final en hexa, generando una búsqueda de 18.014.398.509.481.985 claves posibles.
+
+El programa prueba cada clave una por una hasta encontrar la correcta. Esto es computacionalmente muy costoso porque:
+- DES usa claves de 56 bits, eso significa que puede haber hasta 2^56 combinaciones posibles.  
+	- Eso equivale a aproximadamente 72 cuatrillones de claves (7.2 × 10^16). Digamoslo así, probarlas todas llevaría muchísimo tiempo en una computadora común.
+- Si la computadora prueba, por ejemplo, 1 millón de claves por segundo, el proceso podría tardar días o semanas en completarse.
+
+# Ejercicio 2: Ataque simultaneo
+1. A continuación, seleccione “DES > Ataque > Red > Simulación” 
+![[Pasted image 20250921201734.png]]
+2. Repita todos los pasos de la operación anterior hasta el punto 8.
+3. En el casillero “Nro de procesos atacando simultáneamente” coloque inicialmente “4”.(Repita el
+proceso nuevamente asignando 6, 8 y 10)
+![[Pasted image 20250921201843.png]]
+4. Inicie el proceso seleccionando “Operaciones” y luego “Comenzar".
+5. En la solapa “Resultado Ficheros” se podrá observar las claves válidas. (Copie y guarde el resultado”)
+
+
+Con un número de procesos de ataque simultáneos en 4, tuvo un avance del 25% aproximadamente en 13 minutos.
+![[Pasted image 20250921203242.png]]
+![[Pasted image 20250921203321.png]]
+
+Lo detuve por cuestiones de tiempo (el motivo es iden. Al mencionado en el ejercicio de Monousuario).
+
+Prueba con 6 procesos:
+![[Pasted image 20250921203722.png]]
+Entre las claves válidas, se encuentran:
+```bash
+D4E0167A2466FAB0
+D4E0167A2466FAB1
+D4E0167A2466FBB0
+D4E0167A2466FBB1
+D4E0167A2467FAB0
+D4E0167A2467FAB1
+D4E0167A2467FBB0
+D4E0167A2467FBB1
+D4E0167A2566FAB0
+D4E0167A2566FAB1
+D4E0167A2566FBB0
+D4E0167A2566FBB1
+D4E0167A2567FAB0
+D4E0167A2567FAB1
+D4E0167A2567FBB0
+D4E0167A2567FBB1
+D4E0167B2466FAB0
+D4E0167B2466FAB1
+D4E0167B2466FBB0
+D4E0167B2466FBB1
+...
 ```
 
-5. Seleccione la solapa “Opciones > Búsqueda delimitada de claves”, seleccione
-“Hexadecimal”
-6. En “Clave inicial” ingrese el siguiente valor “B4E0167A2467FAB1”, en “Clave Final” ingrese el siguiente valor “C4E0167A2467FAB1” (Debe aparecer en el casillero “Número de claves Distintas ”18014398509481985”)
-7. En el casillero “Atacar” tilde la casilla “Archivos”
-![[Pasted image 20250912001744.png]]
-8. Inicie el proceso seleccionando “Operaciones” y luego “Comenzar”.
+Prueba con 8 procesos:
+![[Pasted image 20250921203826.png]]
+Tiempos de carga muy extensos como vimos previamente.
 
-<mark style="background: #FFF3A3A6;">TO-DO</mark>
+Prueba con 10 procesos:
+![[Pasted image 20250921203907.png]]
+Tarda incluso menos que la muestra con 4 procesos.
 
-
-5. En la solapa “Resultado Ficheros” se podrá observar las claves válidas. (Copie y guarde el
-resultado”)
+Muestra de algunos outputs:
+```bash
+D4E0167A2466FAB0
+D4E0167A2466FAB1
+D4E0167A2466FBB0
+D4E0167A2466FBB1
+D4E0167A2467FAB0
+D4E0167A2467FAB1
+D4E0167A2467FBB0
+```
