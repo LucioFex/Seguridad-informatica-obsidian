@@ -162,7 +162,7 @@ El ataque monousuario en DES consiste en una búsqueda exhaustiva de claves (fue
 
 El programa prueba cada clave una por una hasta encontrar la correcta. Esto es computacionalmente muy costoso porque:
 - DES usa claves de 56 bits, eso significa que puede haber hasta 2^56 combinaciones posibles.  
-	- Eso equivale a aproximadamente 72 cuatrillones de claves (7.2 × 10^16). Digamoslo así, probarlas todas llevaría muchísimo tiempo en una computadora común.
+	- Eso equivale a aproximadamente 72 cuatrillones de claves (7.2 × 10^16). Digámoslo así, probarlas todas llevaría muchísimo tiempo en una computadora común.
 - Si la computadora prueba, por ejemplo, 1 millón de claves por segundo, el proceso podría tardar días o semanas en completarse.
 
 # Ejercicio 2: Ataque simultaneo
