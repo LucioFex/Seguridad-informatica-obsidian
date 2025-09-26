@@ -89,3 +89,41 @@ Repaso - No estuve
 
 ![[Pasted image 20250925211832.png]]
 
+![[Pasted image 20250925212007.png]]
+
+![[Pasted image 20250925212038.png]]
+
+![[Pasted image 20250925212234.png]]
+
+
+---
+
+# Práctica
+
+![[Pasted image 20250925212742.png]]
+
+---
+
+
+![[Pasted image 20250925214011.png]]
+
+**Convención anotación:** Ejercicio 1 - Luciano Esteban
+- Hacking de hash - Luciano
+
+El quiere la captura de pantalla con resolución.
+
+Tip: Si da error, es por falta de RAM. Ahí hay que darle más RAM a la máquina.
+
+![[Pasted image 20250925213842.png]]
+
+![[Hacking de hash ataque con diccionario.pdf]]
+
+---
+
+![[Pasted image 20250925214807.png]]
+
+![[Pasted image 20250925214950.png]]
+
+Extra:
+![[Pasted image 20250925215013.png]]
+
