@@ -2,9 +2,6 @@
 **Alumno**: Luciano Esteban
 **Materia**: Seguridad Informática
 
-
-
-
 # Paso 1
 
 ![[Pasted image 20251002002023.png]]
