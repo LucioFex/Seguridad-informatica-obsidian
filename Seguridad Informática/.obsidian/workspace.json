@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a83fc8b60f40b0c",
+        "id": "d28078c7fade19c0",
         "type": "tabs",
         "children": [
           {
-            "id": "bd561483b4b53c85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ejercicio de algoritmos simétricos de encriptado DES + Adicionales - Seg Informática - Luciano Esteban.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejercicio de algoritmos simétricos de encriptado DES + Adicionales - Seg Informática - Luciano Esteban"
-            }
-          },
-          {
-            "id": "31aaec8e8c741213",
+            "id": "195e0ac5b11454ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,35 +22,21 @@
             }
           },
           {
-            "id": "0d0e167709cd6936",
+            "id": "9786afc5243d4056",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking de hash - Luciano.md",
+                "file": "Clase 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hacking de hash - Luciano"
-            }
-          },
-          {
-            "id": "e3f70b48a563c400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clase 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 5"
+              "title": "Clase 11"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,21 +207,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0d0e167709cd6936",
+  "active": "9786afc5243d4056",
   "lastOpenFiles": [
+    "Pasted image 20251002221629.png",
+    "Pasted image 20251002221206.png",
+    "Pasted image 20251002220945.png",
+    "Pasted image 20251002194958.png",
+    "Pasted image 20251002193235.png",
+    "Pasted image 20251002192956.png",
+    "Pasted image 20251002192902.png",
+    "Pasted image 20251002192900.png",
+    "Clase 10.md",
+    "Clase 11.md",
+    "Hacking de hash - Luciano.md",
     "Pasted image 20251002004325.png",
     "Pasted image 20251002004227.png",
     "Pasted image 20251002004030.png",
-    "Pasted image 20251002003926.png",
-    "Pasted image 20251002003618.png",
-    "Pasted image 20251002003428.png",
-    "Pasted image 20251002002811.png",
-    "Pasted image 20251002002715.png",
-    "Clase 10.md",
-    "Hacking de hash - Luciano.md",
-    "Pasted image 20251002002549.png",
-    "Pasted image 20251002002457.png",
-    "Pasted image 20251002002354.png",
     "Hacking de hash ataque con diccionario.pdf",
     "Clase 5.md",
     "Clase 4 - Caso de estudio.md",
