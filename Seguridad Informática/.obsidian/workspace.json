@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Clase 11"
             }
+          },
+          {
+            "id": "66d56fbaa9b74248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clase 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,22 +221,25 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9786afc5243d4056",
+  "active": "66d56fbaa9b74248",
   "lastOpenFiles": [
-    "Pasted image 20251002221629.png",
-    "Pasted image 20251002221206.png",
-    "Pasted image 20251002220945.png",
-    "Pasted image 20251002194958.png",
-    "Pasted image 20251002193235.png",
-    "Pasted image 20251002192956.png",
-    "Pasted image 20251002192902.png",
-    "Pasted image 20251002192900.png",
-    "Clase 10.md",
+    "Pasted image 20251009202943.png",
+    "Ejercicio SSH - Luciano.md",
+    "Clase 12.md",
+    "Pasted image 20251009202620.png",
+    "Pasted image 20251009202543.png",
+    "Pasted image 20251009202426.png",
+    "Pasted image 20251009201925.png",
+    "Pasted image 20251009201742.png",
+    "Pasted image 20251009201518.png",
+    "Pasted image 20251009201457.png",
+    "Pasted image 20251009201328.png",
+    "Pasted image 20251009201138.png",
+    "Pasted image 20251009200942.png",
+    "Conexion con SSH_UCEMA.pdf",
     "Clase 11.md",
+    "Clase 10.md",
     "Hacking de hash - Luciano.md",
-    "Pasted image 20251002004325.png",
-    "Pasted image 20251002004227.png",
-    "Pasted image 20251002004030.png",
     "Hacking de hash ataque con diccionario.pdf",
     "Clase 5.md",
     "Clase 4 - Caso de estudio.md",
