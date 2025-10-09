@@ -1,10 +1,55 @@
-#clase_12 | Luciano Esteban
+#clase_12 | Luciano Esteban | Seguridad Informática | ININF 2025 | UCEMA
+
+# Respuesta a preguntas
+
+**1) ¿Después de dar el “enter” una vez instalado la clave en el servidor, qué puede ver que**
+**sucedió ahora?**
+	Tras instalar la clave y volver a entrar: login sin password (se ve Accepted publickey en auth.log)
+
+**2) ¿Cómo tenía que loguearse antes de instalar SSH?**
+	Antes: usuario+password por SSH.
+
+**3) En el cliente ejecutar el comando:  `ls - la`**
+**¿Qué es lo que puede ver ahora?**
+	ls -la en el cliente: veo ~/.ssh/ con id_rsa, id_rsa.pub, known_hosts, etc.
+
+**4) En el cliente ejecute el siguiente comando: `mkdir Prueba`**
+**Ahora vaya al servidor y ejecute el comando: `ls -la**`
+**¿Qué puede ver que sucedió en el servidor?**
+	mkdir Prueba en el cliente → en el servidor no cambia nada (FS distinto).
+
+**5) En el cliente ejecute el siguiente comando: `rmdir Prueba`
+Ahora vaya al servidor y ejecute el comando: `ls -la`
+¿Qué puede ver que sucedió en el servidor?**
+	rmdir Prueba en el cliente → en el servidor sigue igual.
+	
+
+**6) Compruebe que la conexión con el cliente está cerrada**
+**Sino cierre la conexión desde el cliente.**
+```
+exit
+```
+**Debe verse que la conexión se detuvo.**
+```
+logout
+connection to xxx.xxx.xxx.xxx closed
+```
+**Ahora desde el servidor intente conectarse al cliente.**
+```
+ssh (Nombre_Servidor)@xxx.xxx.xxx.xxx -p 443
+```
+**Dar enter**
+**¿Pudo conectarse?**
+**¿Las conexiones son bidireccionales?**
+	Cierro con exit --> Connection closed.
+	Desde el server a Kali por 443 no entra (Kali no tiene sshd en 443 por defecto).
+	Conexión no bidireccional salvo que habilite openssh-server también en Kali.
+
+---
 
 # Procedimiento en el TP
 - Pantalla clara: Servidor Debian
 - Pantalla oscura: Cliente Kali
-
----
 
 Datos alumno
 
@@ -72,48 +117,3 @@ Conexión si clave:
 
 ---
 
-# Respuesta a preguntas
-
-
-**1) ¿Después de dar el “enter” una vez instalado la clave en el servidor, qué puede ver que**
-**sucedió ahora?**
-	Tras instalar la clave y volver a entrar: login sin password (se ve Accepted publickey en auth.log)
-
-**2) ¿Cómo tenía que loguearse antes de instalar SSH?**
-	Antes: usuario+password por SSH.
-
-**3) En el cliente ejecutar el comando:  `ls - la`**
-**¿Qué es lo que puede ver ahora?**
-	ls -la en el cliente: veo ~/.ssh/ con id_rsa, id_rsa.pub, known_hosts, etc.
-
-**4) En el cliente ejecute el siguiente comando: `mkdir Prueba`**
-**Ahora vaya al servidor y ejecute el comando: `ls -la**`
-**¿Qué puede ver que sucedió en el servidor?**
-	mkdir Prueba en el cliente → en el servidor no cambia nada (FS distinto).
-
-**5) En el cliente ejecute el siguiente comando: `rmdir Prueba`
-Ahora vaya al servidor y ejecute el comando: `ls -la`
-¿Qué puede ver que sucedió en el servidor?**
-	rmdir Prueba en el cliente → en el servidor sigue igual.
-	
-
-**6) Compruebe que la conexión con el cliente está cerrada**
-**Sino cierre la conexión desde el cliente.**
-```
-exit
-```
-**Debe verse que la conexión se detuvo.**
-```
-logout
-connection to xxx.xxx.xxx.xxx closed
-```
-**Ahora desde el servidor intente conectarse al cliente.**
-```
-ssh (Nombre_Servidor)@xxx.xxx.xxx.xxx -p 443
-```
-**Dar enter**
-**¿Pudo conectarse?**
-**¿Las conexiones son bidireccionales?**
-	Cierro con exit --> Connection closed.
-	Desde el server a Kali por 443 no entra (Kali no tiene sshd en 443 por defecto).
-	Conexión no bidireccional salvo que habilite openssh-server también en Kali.
