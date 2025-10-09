@@ -111,9 +111,6 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC006nax1DIkZNebyAU3NHEBAddnGaWcQm+BjwLpDGE
 ![[Pasted image 20251009202543.png]]
 
 #### Desde Kali (Cliente)
-Conexión si clave:
+Conexión sin clave:
 ![[Pasted image 20251009202620.png]]
-
-
----
 
