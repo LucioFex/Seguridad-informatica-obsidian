@@ -34,6 +34,16 @@
               "icon": "lucide-file",
               "title": "Ejercicio SSH - Luciano"
             }
+          },
+          {
+            "id": "f3a8f3cf02f1ed2e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
         "currentTab": 1
@@ -209,10 +219,12 @@
   },
   "active": "9786afc5243d4056",
   "lastOpenFiles": [
+    "Ejercicio de algoritmos simétricos de encriptado DES + Adicionales - Seg Informática - Luciano Esteban.md",
+    "Hacking de hash - Luciano.md",
+    "Ejercicio SSH - Luciano.md",
     "Clase 11.md",
     "Clase 12.md",
     "Pasted image 20251009202943.png",
-    "Ejercicio SSH - Luciano.md",
     "Pasted image 20251009202620.png",
     "Pasted image 20251009202543.png",
     "Pasted image 20251009202426.png",
@@ -224,12 +236,10 @@
     "Pasted image 20251009201138.png",
     "Conexion con SSH_UCEMA.pdf",
     "Clase 10.md",
-    "Hacking de hash - Luciano.md",
     "Hacking de hash ataque con diccionario.pdf",
     "Clase 5.md",
     "Clase 4 - Caso de estudio.md",
     "Clase 3.md",
-    "Ejercicio de algoritmos simétricos de encriptado DES + Adicionales - Seg Informática - Luciano Esteban.md",
     "Clase 9 - Actividad - Qué hiciste ese día - Día Jueves 17 de julio 2025.md",
     "Actividad clase 5 - Cont caso de estudio.md",
     "Clase 9.md",
