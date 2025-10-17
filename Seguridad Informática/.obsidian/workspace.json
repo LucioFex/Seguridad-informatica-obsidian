@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d28078c7fade19c0",
+        "id": "606d4e9c16b4e001",
         "type": "tabs",
         "children": [
           {
-            "id": "195e0ac5b11454ef",
+            "id": "68a590df4c6a9fde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase 10.md",
+                "file": "Clase 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 10"
-            }
-          },
-          {
-            "id": "9786afc5243d4056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ejercicio SSH - Luciano.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejercicio SSH - Luciano"
-            }
-          },
-          {
-            "id": "f3a8f3cf02f1ed2e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Clase 13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,25 +192,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9786afc5243d4056",
+  "active": "68a590df4c6a9fde",
   "lastOpenFiles": [
+    "Pasted image 20251016210138.png",
+    "Pasted image 20251016202441.png",
+    "Pasted image 20251016195534.png",
+    "Pasted image 20251016195454.png",
+    "Pasted image 20251016195439.png",
+    "Pasted image 20251016195424.png",
+    "Pasted image 20251016195413.png",
+    "Pasted image 20251016192314.png",
+    "Pasted image 20251016191416.png",
+    "Pasted image 20251016190512.png",
+    "Pasted image 20251016185926.png",
+    "Clase 13.md",
+    "Clase 10.md",
+    "Ejercicio SSH - Luciano.md",
     "Ejercicio de algoritmos simétricos de encriptado DES + Adicionales - Seg Informática - Luciano Esteban.md",
     "Hacking de hash - Luciano.md",
-    "Ejercicio SSH - Luciano.md",
     "Clase 11.md",
     "Clase 12.md",
-    "Pasted image 20251009202943.png",
-    "Pasted image 20251009202620.png",
-    "Pasted image 20251009202543.png",
-    "Pasted image 20251009202426.png",
-    "Pasted image 20251009201925.png",
-    "Pasted image 20251009201742.png",
-    "Pasted image 20251009201518.png",
-    "Pasted image 20251009201457.png",
-    "Pasted image 20251009201328.png",
-    "Pasted image 20251009201138.png",
     "Conexion con SSH_UCEMA.pdf",
-    "Clase 10.md",
     "Hacking de hash ataque con diccionario.pdf",
     "Clase 5.md",
     "Clase 4 - Caso de estudio.md",
