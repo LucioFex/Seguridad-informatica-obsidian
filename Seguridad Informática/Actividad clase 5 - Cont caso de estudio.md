@@ -16,3 +16,5 @@ https://www.abcdatos.com/programas/seguridad/criptografia/
 Para la clase que viene, de ser necesario, necesitamos tener ya la VM.
 Tmb va a estar subiendo actividades.
 
+
+![[Pasted image 20251022211757.png]]
